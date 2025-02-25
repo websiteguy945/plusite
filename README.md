@@ -1,1 +1,3 @@
-# plusite
+# plusite 
+
+MAKE SURE TO DOUBLE CLICK the INDEX.HTML
